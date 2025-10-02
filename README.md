@@ -21,11 +21,10 @@ Here are some ideas to get you started:
 🔹 I enjoy building, experimenting, and contributing to the Web3 community 🌐  
 
 ---
-
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pytkopff&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?pytkopff=janek123&layout=compact&theme=radical)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=pytkopff&theme=radical)
 
 ---
 
