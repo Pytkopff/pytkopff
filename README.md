@@ -9,7 +9,7 @@ Currently scaling: **Snake Neon Arena** & **TimeGuesser**.
 ### 🚀 My Base Journey Stats
 <p align="left">
 <img src="https://github-readme-stats.vercel.app/api?username=Pytkopff&show_icons=true&theme=midnight-purple&hide_border=true&count_private=true" alt="Pytkopff's GitHub stats" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Pytkopff&theme=midnight-purple&hide_border=true" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats.demolab.com/?user=Pytkopff&theme=midnight-purple&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ### 🛠 Tech Stack
