@@ -1,8 +1,8 @@
 ### Hi there, I'm Pytek! 👋
-**Building on Base 🔵 | Farcaster Ecosystem 🟣 | Smart Contract Engineer**
+**Base Apps Creator 🔵 | Farcaster Frames 🟣 | Smart Contract Engineer**
 
-I am an on-chain builder focused on creating engaging Mini Apps and Games on the Base network.
-Currently scaling: **Snake Neon Arena** & **TimeGuesser**.
+I am an on-chain builder focused on creating engaging **Base Apps** and Games.
+Currently shipping code to the Base Ecosystem.
 
 ---
 
@@ -18,11 +18,11 @@ Currently scaling: **Snake Neon Arena** & **TimeGuesser**.
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
-### 🏆 Featured Deployments
-| Project | Description | Stack |
+### 🏆 Featured Base Apps
+| Base App | Status | Stack |
 | :--- | :--- | :--- |
-| **Snake Neon Arena** | Farcaster Frame Game with on-chain badges | Next.js, Thirdweb, Base |
-| **TimeGuesser** | Historical photo guessing game | Solidity, OnchainKit |
+| **Snake Neon Arena** | 🟢 **Live on Base App** | Next.js, Thirdweb, Frames |
+| **TimeGuesser** | 🟡 **Coming Soon** | Solidity, OnchainKit |
 
 ---
 *Verified Base Builder on Talent.app* 🔵
