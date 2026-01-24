@@ -10,9 +10,7 @@ Currently scaling: **Snake Neon Arena** & **TimeGuesser**.
 
 ![Pytkopff's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pytkopff&show_icons=true&theme=midnight-purple&hide_border=true&count_private=true)
 
-### 🏆 Achievements
-[![Trophies](https://github-profile-trophy.vercel.app/?username=Pytkopff&theme=darkhub&no-frame=true&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy) />
-</p>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pytkopff&layout=compact&theme=midnight-purple&hide_border=true)
 
 ### 🛠 Tech Stack
 ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)
