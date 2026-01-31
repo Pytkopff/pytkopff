@@ -26,3 +26,4 @@ Currently shipping code to the Base Ecosystem.
 
 ---
 *Verified Base Builder on Talent.app* 🔵
+https://talent.app/pytek
